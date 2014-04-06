@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_finalist" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:municipality;datatype:string,name:finalist;datatype:int,name:avgrating;datatype:real" />
+</info>

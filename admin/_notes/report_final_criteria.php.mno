@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_final_score" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:municipality;datatype:string,name:total_rating;datatype:real,name:criteria_id;datatype:int,name:count_criteria_id;datatype:int" />
+</info>

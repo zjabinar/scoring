@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_semifinal" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string,name:criteria_perc;datatype:int,name:start_flag;datatype:int,name:end_flag;datatype:int,name:info;datatype:string" />
+</info>

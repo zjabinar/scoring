@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_setting" value="name:active_id;datatype:int,name:used_id;datatype:int,name:criteria_id;datatype:int,name:status_id;datatype:int,name:active_cons;datatype:int" />
+	<infoitem key="UD_semi_cri" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_final_cri" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_rec_cri" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_contestants" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:birthdate;datatype:date,name:municipality;datatype:string,name:address;datatype:string,name:finalist;datatype:int" />
+	<infoitem key="UD_pre_criteria" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_semi_criteria" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_final_criteria" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+</info>

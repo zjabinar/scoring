@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_semi" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_rec_criteria_flag" value="name:used_id;datatype:int,name:criteria_id;datatype:int" />
+</info>

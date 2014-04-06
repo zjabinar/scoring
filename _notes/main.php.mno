@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_admin" value="name:admin_id;datatype:int,name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_rec_cons" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:birthdate;datatype:date,name:municipality;datatype:string,name:address;datatype:string,name:photo1;datatype:string,name:photo2;datatype:string,name:photo3;datatype:string,name:photo4;datatype:string,name:photo5;datatype:string" />
+	<infoitem key="UD_rec_cri_flag" value="name:used_id;datatype:int,name:criteria_id;datatype:int" />
+	<infoitem key="UD_rec_judges" value="name:judgeid;datatype:int,name:account;datatype:string,name:password;datatype:string,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:sex;datatype:string,name:profession;datatype:string,name:company_name;datatype:string,name:company_address;datatype:string" />
+</info>

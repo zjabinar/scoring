@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_contestant" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:birthdate;datatype:date,name:municipality;datatype:string,name:address;datatype:string,name:finalist;datatype:int" />
+	<infoitem key="UD_pre_cri" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_pre_scores" value="name:score_id;datatype:int,name:contestant_id;datatype:int,name:criteria_id;datatype:int,name:rating;datatype:int" />
+</info>

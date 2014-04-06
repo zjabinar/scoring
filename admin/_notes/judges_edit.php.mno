@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsjudges" value="name:account;datatype:int,name:password;datatype:int,name:firstname;datatype:int,name:lastname;datatype:int,name:middlename;datatype:int,name:sex;datatype:int,name:profession;datatype:int,name:company_name;datatype:int,name:company_address;datatype:int,name:judgeid;datatype:int" />
+</info>

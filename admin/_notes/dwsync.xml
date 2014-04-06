@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="style.css" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128231195080000000" remote="128231195080000000" />
+<file name="index.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128305409830000000" remote="128305409830000000" />
+<file name="admin.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128305796997031250" remote="128305796990000000" />
+<file name="contestant.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128305796441093750" remote="128305796440000000" />
+<file name="contestant_edit.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302179088750000" remote="128302179080000000" />
+<file name="contestant_add.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302187698125000" remote="128302187690000000" />
+<file name="judges.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128309934200781250" remote="128309934200000000" />
+<file name="judges_add.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128305001187812500" remote="128305001180000000" />
+<file name="criteria_main.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128304185169062500" remote="128304185160000000" />
+<file name="criteria_preliminary.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302554619375000" remote="128302554610000000" />
+<file name="criteria_semifinal.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302554512500000" remote="128302554510000000" />
+<file name="criteria_final.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302554746250000" remote="128302554740000000" />
+<file name="login.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302490737500000" remote="128302490730000000" />
+<file name="control_window.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311514768750000" remote="128311514760000000" />
+<file name="control_cri_flag.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128302550799531250" remote="128302550790000000" />
+<file name="set_criteria.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128309944500000000" remote="128309944500000000" />
+<file name="set_criteria_sub_semi.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128304179680000000" remote="128304179680000000" />
+<file name="set_criteria_sub_final.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128304179380000000" remote="128304179380000000" />
+<file name="finalist.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311444890468750" remote="128311444890000000" />
+<file name="preliminary.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310552940000000" remote="128310552940000000" />
+<file name="preliminary_orig.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310050486406250" remote="128310050480000000" />
+<file name="preliminary_edit.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310090500781250" remote="128310090500000000" />
+<file name="preliminary_report.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310124692343750" remote="128310124690000000" />
+<file name="report_semifinal_criteria.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310605187968750" remote="128310605180000000" />
+<file name="report_final_criteria.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310615241250000" remote="128310615240000000" />
+<file name="report_semi_finalist.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310640680937500" remote="128310640680000000" />
+<file name="report_finalist.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128310651585625000" remote="128310651580000000" />
+<file name="score_board.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311509902343750" remote="128311509900000000" />
+<file name="score_board_graph.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311508347343750" remote="128311508340000000" />
+<file name="report_semi_finalist_all.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311192359062500" remote="128311192350000000" />
+<file name="report_preliminary_all.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311518711718750" remote="128311518710000000" />
+<file name="temp_flash.php" server="C:/Program Files/Apache Software Foundation/Apache2.2/htdocs/mutya/" local="128311524792656250" remote="128311524790000000" />
+</dwsync>

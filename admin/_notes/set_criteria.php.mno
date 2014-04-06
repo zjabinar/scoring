@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_pre" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string,name:criteria_perc;datatype:int,name:info;datatype:string" />
+	<infoitem key="UD_rec_semi" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_rec_finac" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string,name:criteria_perc;datatype:int,name:start_flag;datatype:int,name:end_flag;datatype:int,name:info;datatype:string" />
+	<infoitem key="UD_rec_pri" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_rec_final" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_rec_current" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+	<infoitem key="UD_rec_cri_flag" value="name:used_id;datatype:int,name:criteria_id;datatype:int" />
+	<infoitem key="UD_criteria" value="name:criteria_id;datatype:int,name:criteria_name;datatype:string" />
+</info>

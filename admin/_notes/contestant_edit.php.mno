@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_admin" value="name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_rscontestants" value="name:contestant_num;datatype:int,name:firstname;datatype:int,name:lastname;datatype:int,name:middlename;datatype:int,name:birthdate;datatype:int,name:municipality;datatype:int,name:address;datatype:int,name:photo1;datatype:int,name:photo2;datatype:int,name:photo3;datatype:int,name:photo4;datatype:int,name:photo5;datatype:int,name:contestant_id;datatype:int" />
+	<infoitem key="UD_rec_contestant" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:birthdate;datatype:date,name:municipality;datatype:string,name:address;datatype:string,name:photo1;datatype:string,name:photo2;datatype:string,name:photo3;datatype:string,name:photo4;datatype:string,name:photo5;datatype:string" />
+</info>

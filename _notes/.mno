@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_URL1" value="admin_id" />
+	<infoitem key="MM_URL_Count" value="6" />
+	<infoitem key="MM_Form1" value="admin_id" />
+	<infoitem key="MM_Form_Count" value="1" />
+	<infoitem key="MM_URL2" value="contestant_id" />
+	<infoitem key="MM_URL3" value="judgeid" />
+	<infoitem key="MM_URL4" value="criteria_id" />
+	<infoitem key="MM_Session1" value="kt_login_id" />
+	<infoitem key="MM_Session_Count" value="13" />
+	<infoitem key="MM_Session2" value="kt_login_user" />
+	<infoitem key="MM_Session3" value="kt_firstname" />
+	<infoitem key="MM_Session4" value="kt_lastname" />
+	<infoitem key="MM_Session5" value="kt_middlename" />
+	<infoitem key="MM_Session6" value="kt_sex" />
+	<infoitem key="MM_Session7" value="kt_profession" />
+	<infoitem key="MM_URL5" value="active_id" />
+	<infoitem key="MM_Session8" value="cri_table" />
+	<infoitem key="MM_Session9" value="cri_id" />
+	<infoitem key="MM_Session10" value="cri_table_curr" />
+	<infoitem key="MM_Session11" value="admin_id" />
+	<infoitem key="MM_Session12" value="judge_id" />
+	<infoitem key="MM_Session13" value="judgeid" />
+	<infoitem key="MM_URL6" value="score_id" />
+</info>

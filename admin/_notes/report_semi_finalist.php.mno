@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pre_scores" value="name:contestant_id;datatype:int,name:total_scores;datatype:real" />
+	<infoitem key="UD_semi_scores" value="name:contestant_id;datatype:int,name:total_scores;datatype:real" />
+	<infoitem key="UD_cri_count" value="name:pre_count;datatype:int" />
+	<infoitem key="UD_semi_count" value="name:semi_count;datatype:int" />
+	<infoitem key="UD_contestants" value="name:contestant_id;datatype:int,name:contestant_num;datatype:int,name:firstname;datatype:string,name:lastname;datatype:string,name:middlename;datatype:string,name:birthdate;datatype:date,name:municipality;datatype:string" />
+	<infoitem key="UD_finalist" value="name:contestant_num;datatype:int,name:municipality;datatype:string,name:name;datatype:string,name:scores;datatype:real" />
+</info>
